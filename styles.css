@@ -1,3 +1,12 @@
+/* Montserrat (variable, latin subset), self-hosted so no visitor data goes to Google */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400 900;
+    font-display: swap;
+    src: url('assets/fonts/montserrat-latin.woff2') format('woff2');
+}
+
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
  
 :root {
