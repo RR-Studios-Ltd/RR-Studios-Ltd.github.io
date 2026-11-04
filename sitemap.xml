@@ -11,13 +11,13 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://www.rr-studios.co/de" />
   </url>
   <url>
-    <loc>https://www.rr-studios.co/imprint</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rr-studios.co/imprint" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.rr-studios.co/de/impressum" />
+    <loc>https://www.rr-studios.co/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rr-studios.co/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.rr-studios.co/de/datenschutz/" />
   </url>
   <url>
-    <loc>https://www.rr-studios.co/de/impressum</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rr-studios.co/imprint" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.rr-studios.co/de/impressum" />
+    <loc>https://www.rr-studios.co/de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rr-studios.co/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.rr-studios.co/de/datenschutz/" />
   </url>
 </urlset>
